@@ -1,0 +1,3 @@
+﻿  LabOne.cpp
+C:\Users\judah\source\repos\LabOne_Wilson\LabOne_Wilson\LabOne.cpp(141,1): warning C4715: 'Amortize': not all control paths return a value
+  LabOne_Wilson.vcxproj -> C:\Users\judah\source\repos\LabOne_Wilson\x64\Debug\LabOne_Wilson.exe
